@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="AppTest" time="0.098" tests="4" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="AppTest" time="0.091" tests="4" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="17"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.class.path" value="C:\Users\Moksha\OneDrive\Desktop\practice\target\test-classes;C:\Users\Moksha\OneDrive\Desktop\practice\target\classes;C:\Users\Moksha\.m2\repository\org\junit\jupiter\junit-jupiter\5.10.1\junit-jupiter-5.10.1.jar;C:\Users\Moksha\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.1\junit-jupiter-api-5.10.1.jar;C:\Users\Moksha\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\Moksha\.m2\repository\org\junit\platform\junit-platform-commons\1.10.1\junit-platform-commons-1.10.1.jar;C:\Users\Moksha\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Moksha\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.10.1\junit-jupiter-params-5.10.1.jar;C:\Users\Moksha\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.1\junit-jupiter-engine-5.10.1.jar;C:\Users\Moksha\.m2\repository\org\junit\platform\junit-platform-engine\1.10.1\junit-platform-engine-1.10.1.jar;"/>
+    <property name="java.class.path" value="C:\Users\Moksha\OneDrive\Desktop\practicee\target\test-classes;C:\Users\Moksha\OneDrive\Desktop\practicee\target\classes;C:\Users\Moksha\.m2\repository\org\junit\jupiter\junit-jupiter\5.10.1\junit-jupiter-5.10.1.jar;C:\Users\Moksha\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.1\junit-jupiter-api-5.10.1.jar;C:\Users\Moksha\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\Moksha\.m2\repository\org\junit\platform\junit-platform-commons\1.10.1\junit-platform-commons-1.10.1.jar;C:\Users\Moksha\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Moksha\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.10.1\junit-jupiter-params-5.10.1.jar;C:\Users\Moksha\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.1\junit-jupiter-engine-5.10.1.jar;C:\Users\Moksha\.m2\repository\org\junit\platform\junit-platform-engine\1.10.1\junit-platform-engine-1.10.1.jar;"/>
     <property name="java.vm.vendor" value="Eclipse Adoptium"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="user.variant" value=""/>
@@ -15,9 +15,9 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
     <property name="sun.boot.library.path" value="C:\Users\Moksha\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.7.7-hotspot\bin"/>
-    <property name="sun.java.command" value="C:\Users\Moksha\AppData\Local\Temp\surefire17456093035562861320\surefirebooter-20260414151321513_3.jar C:\Users\Moksha\AppData\Local\Temp\surefire17456093035562861320 2026-04-14T15-13-21_155-jvmRun1 surefire-20260414151321513_1tmp surefire_0-20260414151321513_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\Moksha\AppData\Local\Temp\surefire10526452812628570921\surefirebooter-20260414162729996_3.jar C:\Users\Moksha\AppData\Local\Temp\surefire10526452812628570921 2026-04-14T16-27-29_300-jvmRun1 surefire-20260414162729996_1tmp surefire_0-20260414162729996_2tmp"/>
     <property name="jdk.debug" value="release"/>
-    <property name="surefire.test.class.path" value="C:\Users\Moksha\OneDrive\Desktop\practice\target\test-classes;C:\Users\Moksha\OneDrive\Desktop\practice\target\classes;C:\Users\Moksha\.m2\repository\org\junit\jupiter\junit-jupiter\5.10.1\junit-jupiter-5.10.1.jar;C:\Users\Moksha\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.1\junit-jupiter-api-5.10.1.jar;C:\Users\Moksha\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\Moksha\.m2\repository\org\junit\platform\junit-platform-commons\1.10.1\junit-platform-commons-1.10.1.jar;C:\Users\Moksha\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Moksha\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.10.1\junit-jupiter-params-5.10.1.jar;C:\Users\Moksha\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.1\junit-jupiter-engine-5.10.1.jar;C:\Users\Moksha\.m2\repository\org\junit\platform\junit-platform-engine\1.10.1\junit-platform-engine-1.10.1.jar;"/>
+    <property name="surefire.test.class.path" value="C:\Users\Moksha\OneDrive\Desktop\practicee\target\test-classes;C:\Users\Moksha\OneDrive\Desktop\practicee\target\classes;C:\Users\Moksha\.m2\repository\org\junit\jupiter\junit-jupiter\5.10.1\junit-jupiter-5.10.1.jar;C:\Users\Moksha\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.1\junit-jupiter-api-5.10.1.jar;C:\Users\Moksha\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\Moksha\.m2\repository\org\junit\platform\junit-platform-commons\1.10.1\junit-platform-commons-1.10.1.jar;C:\Users\Moksha\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Moksha\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.10.1\junit-jupiter-params-5.10.1.jar;C:\Users\Moksha\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.1\junit-jupiter-engine-5.10.1.jar;C:\Users\Moksha\.m2\repository\org\junit\platform\junit-platform-engine\1.10.1\junit-platform-engine-1.10.1.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\Moksha"/>
     <property name="user.language" value="en"/>
@@ -25,12 +25,12 @@
     <property name="java.version.date" value="2023-04-18"/>
     <property name="java.home" value="C:\Users\Moksha\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.7.7-hotspot"/>
     <property name="file.separator" value="\"/>
-    <property name="basedir" value="C:\Users\Moksha\OneDrive\Desktop\practice"/>
+    <property name="basedir" value="C:\Users\Moksha\OneDrive\Desktop\practicee"/>
     <property name="java.vm.compressedOopsMode" value="32-bit"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\Moksha\AppData\Local\Temp\surefire17456093035562861320\surefirebooter-20260414151321513_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Moksha\AppData\Local\Temp\surefire10526452812628570921\surefirebooter-20260414162729996_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.7+7"/>
@@ -45,7 +45,7 @@
     <property name="java.vendor.url.bug" value="https://github.com/adoptium/adoptium-support/issues"/>
     <property name="java.io.tmpdir" value="C:\Users\Moksha\AppData\Local\Temp\"/>
     <property name="java.version" value="17.0.7"/>
-    <property name="user.dir" value="C:\Users\Moksha\OneDrive\Desktop\practice"/>
+    <property name="user.dir" value="C:\Users\Moksha\OneDrive\Desktop\practicee"/>
     <property name="os.arch" value="amd64"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="sun.os.patch.level" value=""/>
@@ -57,8 +57,8 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="testNoTax" classname="AppTest" time="0.049"/>
-  <testcase name="testFivePercentTax" classname="AppTest" time="0.002"/>
-  <testcase name="testThirtyPercentTax" classname="AppTest" time="0.001"/>
-  <testcase name="testTwentyPercentTax" classname="AppTest" time="0.002"/>
+  <testcase name="testNoTax" classname="AppTest" time="0.041"/>
+  <testcase name="testFivePercentTax" classname="AppTest" time="0.003"/>
+  <testcase name="testThirtyPercentTax" classname="AppTest" time="0.002"/>
+  <testcase name="testTwentyPercentTax" classname="AppTest" time="0.0"/>
 </testsuite>
